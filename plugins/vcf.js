@@ -8,10 +8,10 @@ const processed = new Set();
 
 module.exports = {
   // 1. Command Settings
-  command: 'groupvcf',
+  command: 'vcf',
   alias: ['gvcf', 'groupcontacts', 'dumpcontacts'],
   description: 'Generates a VCF file containing all group members.',
-  category: 'group',
+  category: 'tools',
 
   /**
    * @param {import('@whiskeysockets/baileys').WASocket} sock
