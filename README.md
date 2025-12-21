@@ -62,7 +62,7 @@
 <p align="center">Get your session ID securely to activate <b>𝐓𝐇𝐄 𝐒𝐓𝐈𝐀𝐍</b>.</p>
 
 <div align="center">
-  <a href="https://the-stian-pair.onrender.com">
+  <a href="https://the-stian-pair2.onrender.com">
     <img src="https://img.shields.io/badge/GET_SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Session Pairing" height="50">
   </a>
 </div>
